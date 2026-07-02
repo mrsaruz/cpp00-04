@@ -1,4 +1,4 @@
-This project has been created as part of the 42 curriculum by adruz-to
+*This project has been created as part of the 42 curriculum by __adruz-to__*
 
 # C++ Modules 00-04
 
